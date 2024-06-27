@@ -21,6 +21,7 @@ main {
 }
 
 video {
+    width: 95%;
     max-width: 900px;
     aspect-ratio: 16/9;
     margin: 15px auto;
