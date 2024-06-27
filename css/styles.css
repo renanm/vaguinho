@@ -59,7 +59,8 @@ h2 {
     background-size: contain;
     background-repeat: no-repeat;
     filter: grayscale(100%);
-    min-width: 50px;
+    max-width: 50px;
+    width: 15%;
     transition: 500ms ease;
 }
 
