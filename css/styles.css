@@ -16,7 +16,8 @@ main {
 
 
 .container {
-    max-width:700px;
+    width:700px;
+    max-width: 90%;
     margin: 20px auto;
 }
 
